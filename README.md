@@ -29,7 +29,7 @@ Este proyecto para el curso de Redes de Computadoras de la Universidad de Lima b
 
 1. Clonar este repositorio en su computadora.
 
-![Imagen](/Images/descargar.png)
+![Imagen](https://github.com/sebastianperudev2001/ComputerNetworks-FinalProject-BellmanFord/blob/main/Images/descargar.PNG)
 
 2. Extraer el contenido en una carpeta.
 
@@ -38,13 +38,13 @@ Este proyecto para el curso de Redes de Computadoras de la Universidad de Lima b
 ```html
     python Algoritmo.py
 ```
-Así en caso tenga Linux, MAC o el Bash de Git:
+Así en caso tenga Linux, MAC o el Bash de Git, puede abrir el Bash en la carpeta directamente y ejecutar el comando previo:
 
-![Imagen](/Images/terminal.png)
+![Imagen](https://github.com/sebastianperudev2001/ComputerNetworks-FinalProject-BellmanFord/blob/main/Images/terminal.PNG)
 
-Así en caso utilice Windows:
+Así en caso utilice Windows, desplazarse hasta estar en el directorio del código:
 
-![Imagen](/Images/cmd.png)
+![Imagen](https://github.com/sebastianperudev2001/ComputerNetworks-FinalProject-BellmanFord/blob/main/Images/cmd.PNG)
 
 En caso lo considere, también puede abrirlo desde su IDE de preferencia, en este caso se trabajó con Spyder, así que en caso solo debería seguir esta secuencia: 
 
