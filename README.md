@@ -31,7 +31,11 @@ Este proyecto para el curso de Redes de Computadoras de la Universidad de Lima b
 
 ![Imagen](https://github.com/sebastianperudev2001/ComputerNetworks-FinalProject-BellmanFord/blob/main/Images/descargar.PNG)
 
-2. Extraer el contenido en una carpeta.
+2. Extraer el contenido en una carpeta. Dado que se ha creado un ambiente virtual dentro de este proyecto, no es necesario instalar ninguna librería adicional. No obstante, en caso salga el error "no existe módulo X", ejecutar el siguiente comando:
+
+```html
+    pip install {nombre_paquete}
+```
 
 3. Abrir su terminal en dicho directorio y ejecutar el siguiente comando en su terminal o bash
 
