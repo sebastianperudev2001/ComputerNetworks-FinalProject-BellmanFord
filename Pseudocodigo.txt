@@ -1,0 +1,20 @@
+Clase Grafo:
+    INICIO BellmanFord (Vertice Origen)
+        
+        INICIALIZAR infinito = Valor infinito
+        INICIALIZAR distancias = nueva Lista [cantV] y ASIGNAR infinito a todos sus valores
+        Asignar a distancias[Vertice Origen] = 0
+        INICIALIZAR predecesor = nueva Lista [cantV] y ASIGNAR None a todos sus valores
+        
+        POR CADA nodo en el RANGO(cantV - 1):
+            POR CADA arista en la matriz HACER:
+                SI (distancias[u] != infinito) Y (distancias[u] + w < distancias[v]) ENTONCES:
+                    distancias[v] = distancias[u] + w
+                    predecesor[v] = u
+    
+    
+        POR CADA ARISTA en la matriz HACER:
+            SI (distancias[U] != infinito) Y (distancias[u] + w < distancias[v]) ENTONCES:
+                IMPRIMIR('El Grafo contiene ciclos de peso negativo')
+                ROMPER BUCLE
+    FIN
