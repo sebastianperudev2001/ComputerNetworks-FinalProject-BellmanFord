@@ -29,7 +29,7 @@ Este proyecto para el curso de Redes de Computadoras de la Universidad de Lima b
 
 1. Clonar este repositorio en su computadora.
 
-![Imagen](descargar.png)
+![Imagen](Images/descargar.png)
 
 2. Extraer el contenido en una carpeta.
 
@@ -40,11 +40,11 @@ Este proyecto para el curso de Redes de Computadoras de la Universidad de Lima b
 ```
 Así en caso tenga Linux, MAC o el Bash de Git:
 
-![Imagen](Abrir-Terminal.png)
+![Imagen](Images/terminal.png)
 
 Así en caso utilice Windows:
 
-![Imagen](cmd.png)
+![Imagen](Images/cmd.png)
 
 En caso lo considere, también puede abrirlo desde su IDE de preferencia, en este caso se trabajó con Spyder, así que en caso solo debería seguir esta secuencia: 
 
